@@ -139,7 +139,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://baomoi.com";
+	window.location="https://khadigita.blogspot.com/2020/01/blog-post_21.html";
 var linkhientai=window.location;
 if(getCookie(linkhientai)){
                 	
